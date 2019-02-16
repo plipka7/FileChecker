@@ -1,0 +1,482 @@
+starting build
+
+**********************************************************************
+
+Test build
+build project using make
+
+**********************************************************************
+rm -f xcheck
+gcc xcheck.c -o xcheck -Wall -Werror -O
+
+
+test build PASSED
+ (build project using make)
+
+starting good
+
+**********************************************************************
+
+Test good
+Run on a good file system
+
+**********************************************************************
+/tmp/tmpETxePX/p/./xcheck /u/c/s/cs537-1/ta/tests/5a-new/images/good
+
+
+test good PASSED (5 of 5)
+ (Run on a good file system)
+
+starting goodlarge
+
+**********************************************************************
+
+Test goodlarge
+Run on large good file system
+
+**********************************************************************
+/tmp/tmpETxePX/p/./xcheck /u/c/s/cs537-1/ta/tests/5a-new/images/goodlarge
+
+
+test goodlarge PASSED (5 of 5)
+ (Run on large good file system)
+
+starting goodrefcnt
+
+**********************************************************************
+
+Test goodrefcnt
+Run on a file system with only good file reference counts
+
+**********************************************************************
+/tmp/tmpETxePX/p/./xcheck /u/c/s/cs537-1/ta/tests/5a-new/images/goodrefcnt
+
+
+test goodrefcnt PASSED (5 of 5)
+ (Run on a file system with only good file reference counts)
+
+starting goodlink
+
+**********************************************************************
+
+Test goodlink
+Run on a file system with only good directory link counts
+
+**********************************************************************
+/tmp/tmpETxePX/p/./xcheck /u/c/s/cs537-1/ta/tests/5a-new/images/goodlink
+
+
+test goodlink PASSED (5 of 5)
+ (Run on a file system with only good directory link counts)
+
+starting goodrm
+
+**********************************************************************
+
+Test goodrm
+Run on a good file system having some files removed
+
+**********************************************************************
+/tmp/tmpETxePX/p/./xcheck /u/c/s/cs537-1/ta/tests/5a-new/images/goodrm
+
+
+test goodrm PASSED (5 of 5)
+ (Run on a good file system having some files removed)
+
+starting nonexistant
+
+**********************************************************************
+
+Test nonexistant
+Run on a nonexistant file system
+
+**********************************************************************
+/tmp/tmpETxePX/p/./xcheck /u/c/s/cs537-1/ta/tests/5a-new/images/nonexistant
+
+
+test nonexistant PASSED (5 of 5)
+ (Run on a nonexistant file system)
+
+starting badroot
+
+**********************************************************************
+
+Test badroot
+Run on a file system with a root directory in bad location
+
+**********************************************************************
+/tmp/tmpETxePX/p/./xcheck /u/c/s/cs537-1/ta/tests/5a-new/images/badroot
+
+
+test badroot PASSED (5 of 5)
+ (Run on a file system with a root directory in bad location)
+
+starting badinode
+
+**********************************************************************
+
+Test badinode
+Run on a file system with a bad type in an inode
+
+**********************************************************************
+/tmp/tmpETxePX/p/./xcheck /u/c/s/cs537-1/ta/tests/5a-new/images/badinode
+
+
+test badinode PASSED (5 of 5)
+ (Run on a file system with a bad type in an inode)
+
+starting badaddr
+
+**********************************************************************
+
+Test badaddr
+Run on a file system with a bad direct address in an inode
+
+**********************************************************************
+/tmp/tmpETxePX/p/./xcheck /u/c/s/cs537-1/ta/tests/5a-new/images/badaddr
+
+
+test badaddr PASSED (5 of 5)
+ (Run on a file system with a bad direct address in an inode)
+
+starting badindir1
+
+**********************************************************************
+
+Test badindir1
+Run on a file system with a bad indirect address in an inode
+
+**********************************************************************
+/tmp/tmpETxePX/p/./xcheck /u/c/s/cs537-1/ta/tests/5a-new/images/badindir1
+
+
+test badindir1 PASSED (5 of 5)
+ (Run on a file system with a bad indirect address in an inode)
+
+starting badroot2
+
+**********************************************************************
+
+Test badroot2
+Run on a file system with a bad root directory in good location
+
+**********************************************************************
+/tmp/tmpETxePX/p/./xcheck /u/c/s/cs537-1/ta/tests/5a-new/images/badroot2
+
+
+test badroot2 PASSED (5 of 5)
+ (Run on a file system with a bad root directory in good location)
+
+starting badfmt
+
+**********************************************************************
+
+Test badfmt
+Run on a file system without . or .. directories
+
+**********************************************************************
+/tmp/tmpETxePX/p/./xcheck /u/c/s/cs537-1/ta/tests/5a-new/images/badfmt
+
+
+test badfmt PASSED (5 of 5)
+ (Run on a file system without . or .. directories)
+
+starting mrkfree
+
+**********************************************************************
+
+Test mrkfree
+Run on a file system with an inuse direct block marked free
+
+**********************************************************************
+/tmp/tmpETxePX/p/./xcheck /u/c/s/cs537-1/ta/tests/5a-new/images/mrkfree
+
+
+test mrkfree PASSED (5 of 5)
+ (Run on a file system with an inuse direct block marked free)
+
+starting indirfree
+
+**********************************************************************
+
+Test indirfree
+Run on a file system with an inuse indirect block marked free
+
+**********************************************************************
+/tmp/tmpETxePX/p/./xcheck /u/c/s/cs537-1/ta/tests/5a-new/images/indirfree
+
+
+test indirfree PASSED (5 of 5)
+ (Run on a file system with an inuse indirect block marked free)
+
+starting mrkused
+
+**********************************************************************
+
+Test mrkused
+Run on a file system with a free block marked used
+
+**********************************************************************
+/tmp/tmpETxePX/p/./xcheck /u/c/s/cs537-1/ta/tests/5a-new/images/mrkused
+
+
+test mrkused PASSED (5 of 5)
+ (Run on a file system with a free block marked used)
+
+starting addronce
+
+**********************************************************************
+
+Test addronce
+Run on a file system with a direct address used more than once
+
+**********************************************************************
+/tmp/tmpETxePX/p/./xcheck /u/c/s/cs537-1/ta/tests/5a-new/images/addronce
+
+
+test addronce PASSED (5 of 5)
+ (Run on a file system with a direct address used more than once)
+
+starting addronce2
+
+**********************************************************************
+
+Test addronce2
+Run on a file system with an indirect address used more than once
+
+**********************************************************************
+/tmp/tmpETxePX/p/./xcheck /u/c/s/cs537-1/ta/tests/5a-new/images/addronce2
+
+
+test addronce2 PASSED (5 of 5)
+ (Run on a file system with an indirect address used more than once)
+
+starting imrkused
+
+**********************************************************************
+
+Test imrkused
+Run on a file system with inode marked used, but not referenced in a directory
+
+**********************************************************************
+/tmp/tmpETxePX/p/./xcheck /u/c/s/cs537-1/ta/tests/5a-new/images/imrkused
+
+
+test imrkused PASSED (5 of 5)
+ (Run on a file system with inode marked used, but not referenced in a directory)
+
+starting imrkfree
+
+**********************************************************************
+
+Test imrkfree
+Run on a file system with inode marked free, but referenced in a directory
+
+**********************************************************************
+/tmp/tmpETxePX/p/./xcheck /u/c/s/cs537-1/ta/tests/5a-new/images/imrkfree
+
+
+test imrkfree PASSED (5 of 5)
+ (Run on a file system with inode marked free, but referenced in a directory)
+
+starting badrefcnt
+
+**********************************************************************
+
+Test badrefcnt
+Run on a file system which has an inode that is referenced less than its reference count
+
+**********************************************************************
+/tmp/tmpETxePX/p/./xcheck /u/c/s/cs537-1/ta/tests/5a-new/images/badrefcnt
+
+
+test badrefcnt PASSED (5 of 5)
+ (Run on a file system which has an inode that is referenced less than its reference count)
+
+starting badrefcnt2
+
+**********************************************************************
+
+Test badrefcnt2
+Run on a file system which has an inode that is referenced more than its reference count
+
+**********************************************************************
+/tmp/tmpETxePX/p/./xcheck /u/c/s/cs537-1/ta/tests/5a-new/images/badrefcnt2
+
+
+test badrefcnt2 PASSED (5 of 5)
+ (Run on a file system which has an inode that is referenced more than its reference count)
+
+starting badindir2
+
+**********************************************************************
+
+Test badindir2
+Run on a file system with a bad indirect address in an inode
+
+**********************************************************************
+/tmp/tmpETxePX/p/./xcheck /u/c/s/cs537-1/ta/tests/5a-new/images/badindir2
+
+
+test badindir2 PASSED (5 of 5)
+ (Run on a file system with a bad indirect address in an inode)
+
+starting dironce
+
+**********************************************************************
+
+Test dironce
+Run on a file system with a directory appearing more than once
+
+**********************************************************************
+/tmp/tmpETxePX/p/./xcheck /u/c/s/cs537-1/ta/tests/5a-new/images/dironce
+
+
+test dironce PASSED (5 of 5)
+ (Run on a file system with a directory appearing more than once)
+
+starting badlarge
+
+**********************************************************************
+
+Test badlarge
+Run on a large file system with an indirect directory appearing more than once
+
+**********************************************************************
+/tmp/tmpETxePX/p/./xcheck /u/c/s/cs537-1/ta/tests/5a-new/images/badlarge
+
+
+test badlarge PASSED (5 of 5)
+ (Run on a large file system with an indirect directory appearing more than once)
+
+starting valgrind
+
+**********************************************************************
+
+Test valgrind
+Run valgrind on xcheck
+
+**********************************************************************
+/usr/bin/valgrind --show-reachable=yes --xml=yes --child-silent-after-fork=yes --undef-value-errors=no --xml-file=/tmp/tmpETxePX/p/vg_summary.xml /tmp/tmpETxePX/p/./xcheck /u/c/s/cs537-1/ta/tests/5a-new/images/mrkused
+
+
+test valgrind PASSED (5 of 5)
+ (Run valgrind on xcheck)
+
+starting valgrind2
+
+**********************************************************************
+
+Test valgrind2
+Run valgrind on xcheck
+
+**********************************************************************
+/usr/bin/valgrind --show-reachable=yes --xml=yes --child-silent-after-fork=yes --undef-value-errors=no --xml-file=/tmp/tmpETxePX/p/vg_summary.xml /tmp/tmpETxePX/p/./xcheck /u/c/s/cs537-1/ta/tests/5a-new/images/imrkused
+
+
+test valgrind2 PASSED (5 of 5)
+ (Run valgrind on xcheck)
+
+starting valgrind3
+
+**********************************************************************
+
+Test valgrind3
+Run valgrind on xcheck
+
+**********************************************************************
+/usr/bin/valgrind --show-reachable=yes --xml=yes --child-silent-after-fork=yes --undef-value-errors=no --xml-file=/tmp/tmpETxePX/p/vg_summary.xml /tmp/tmpETxePX/p/./xcheck /u/c/s/cs537-1/ta/tests/5a-new/images/goodrefcnt
+
+
+test valgrind3 PASSED (5 of 5)
+ (Run valgrind on xcheck)
+
+**********************************************************************
+Summary:
+test build PASSED
+ (build project using make)
+
+test good PASSED (5 of 5)
+ (Run on a good file system)
+
+test goodlarge PASSED (5 of 5)
+ (Run on large good file system)
+
+test goodrefcnt PASSED (5 of 5)
+ (Run on a file system with only good file reference counts)
+
+test goodlink PASSED (5 of 5)
+ (Run on a file system with only good directory link counts)
+
+test goodrm PASSED (5 of 5)
+ (Run on a good file system having some files removed)
+
+test nonexistant PASSED (5 of 5)
+ (Run on a nonexistant file system)
+
+test badroot PASSED (5 of 5)
+ (Run on a file system with a root directory in bad location)
+
+test badinode PASSED (5 of 5)
+ (Run on a file system with a bad type in an inode)
+
+test badaddr PASSED (5 of 5)
+ (Run on a file system with a bad direct address in an inode)
+
+test badindir1 PASSED (5 of 5)
+ (Run on a file system with a bad indirect address in an inode)
+
+test badroot2 PASSED (5 of 5)
+ (Run on a file system with a bad root directory in good location)
+
+test badfmt PASSED (5 of 5)
+ (Run on a file system without . or .. directories)
+
+test mrkfree PASSED (5 of 5)
+ (Run on a file system with an inuse direct block marked free)
+
+test indirfree PASSED (5 of 5)
+ (Run on a file system with an inuse indirect block marked free)
+
+test mrkused PASSED (5 of 5)
+ (Run on a file system with a free block marked used)
+
+test addronce PASSED (5 of 5)
+ (Run on a file system with a direct address used more than once)
+
+test addronce2 PASSED (5 of 5)
+ (Run on a file system with an indirect address used more than once)
+
+test imrkused PASSED (5 of 5)
+ (Run on a file system with inode marked used, but not referenced in a directory)
+
+test imrkfree PASSED (5 of 5)
+ (Run on a file system with inode marked free, but referenced in a directory)
+
+test badrefcnt PASSED (5 of 5)
+ (Run on a file system which has an inode that is referenced less than its reference count)
+
+test badrefcnt2 PASSED (5 of 5)
+ (Run on a file system which has an inode that is referenced more than its reference count)
+
+test badindir2 PASSED (5 of 5)
+ (Run on a file system with a bad indirect address in an inode)
+
+test dironce PASSED (5 of 5)
+ (Run on a file system with a directory appearing more than once)
+
+test badlarge PASSED (5 of 5)
+ (Run on a large file system with an indirect directory appearing more than once)
+
+test valgrind PASSED (5 of 5)
+ (Run valgrind on xcheck)
+
+test valgrind2 PASSED (5 of 5)
+ (Run valgrind on xcheck)
+
+test valgrind3 PASSED (5 of 5)
+ (Run valgrind on xcheck)
+
+Passed 28 of 28 tests.
+Overall 28 of 28
+Points 135 of 135

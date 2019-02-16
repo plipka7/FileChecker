@@ -1,0 +1,3135 @@
+db_start: 29
+blocks in file: 1024
+data blocks: 995
+n inodes: 200
+INUM: 0
+TYPE: NOT USED
+INUM: 1
+TYPE: DIR
+links: 1
+size: 512
+i: 0
+here44 inum: 1
+fb:1 inum:1
+here33
+should be here wtf
+inum: 2
+type: 2
+inum: 3
+type: 2
+inum: 4
+type: 2
+inum: 5
+type: 2
+inum: 6
+type: 2
+inum: 7
+type: 2
+inum: 8
+type: 2
+inum: 9
+type: 2
+inum: 10
+type: 2
+inum: 11
+type: 2
+inum: 12
+type: 2
+inum: 13
+type: 2
+inum: 14
+type: 2
+inum: 15
+type: 2
+inum: 16
+type: 2
+inum: 17
+type: 2
+inum: 18
+type: 2
+inum: 19
+type: 3
+inum: 0
+INUM: 2
+TYPE: FILE
+links: 1
+size: 1793
+db: 30
+db: 31
+db: 32
+db: 33
+INUM: 3
+TYPE: FILE
+links: 1
+size: 9568
+db: 34
+db: 35
+db: 36
+db: 37
+db: 38
+db: 39
+db: 40
+db: 41
+db: 42
+db: 43
+db: 44
+db: 45
+db: 46
+db: 47
+db: 48
+db: 49
+db: 50
+db: 51
+db: 52
+db: 53
+INUM: 4
+TYPE: FILE
+links: 1
+size: 9100
+db: 54
+db: 55
+db: 56
+db: 57
+db: 58
+db: 59
+db: 60
+db: 61
+db: 62
+db: 63
+db: 64
+db: 65
+db: 66
+db: 67
+db: 68
+db: 69
+db: 70
+db: 71
+db: 72
+INUM: 5
+TYPE: FILE
+links: 1
+size: 5876
+db: 73
+db: 74
+db: 75
+db: 76
+db: 77
+db: 78
+db: 79
+db: 80
+db: 81
+db: 82
+db: 83
+db: 84
+INUM: 6
+TYPE: FILE
+links: 1
+size: 10688
+db: 85
+db: 86
+db: 87
+db: 88
+db: 89
+db: 90
+db: 91
+db: 92
+db: 93
+db: 94
+db: 95
+db: 96
+db: 97
+db: 98
+db: 99
+db: 100
+db: 101
+db: 102
+db: 103
+db: 104
+db: 105
+db: 106
+INUM: 7
+TYPE: FILE
+links: 1
+size: 9404
+db: 107
+db: 108
+db: 109
+db: 110
+db: 111
+db: 112
+db: 113
+db: 114
+db: 115
+db: 116
+db: 117
+db: 118
+db: 119
+db: 120
+db: 121
+db: 122
+db: 123
+db: 124
+db: 125
+db: 126
+INUM: 8
+TYPE: FILE
+links: 1
+size: 9116
+db: 127
+db: 128
+db: 129
+db: 130
+db: 131
+db: 132
+db: 133
+db: 134
+db: 135
+db: 136
+db: 137
+db: 138
+db: 139
+db: 140
+db: 141
+db: 142
+db: 143
+db: 144
+db: 145
+INUM: 9
+TYPE: FILE
+links: 1
+size: 9080
+db: 146
+db: 147
+db: 148
+db: 149
+db: 150
+db: 151
+db: 152
+db: 153
+db: 154
+db: 155
+db: 156
+db: 157
+db: 158
+db: 159
+db: 160
+db: 161
+db: 162
+db: 163
+db: 164
+INUM: 10
+TYPE: FILE
+links: 1
+size: 10656
+db: 165
+db: 166
+db: 167
+db: 168
+db: 169
+db: 170
+db: 171
+db: 172
+db: 173
+db: 174
+db: 175
+db: 176
+db: 177
+db: 178
+db: 179
+db: 180
+db: 181
+db: 182
+db: 183
+db: 184
+db: 185
+db: 186
+INUM: 11
+TYPE: FILE
+links: 1
+size: 9172
+db: 187
+db: 188
+db: 189
+db: 190
+db: 191
+db: 192
+db: 193
+db: 194
+db: 195
+db: 196
+db: 197
+db: 198
+db: 199
+db: 200
+db: 201
+db: 202
+db: 203
+db: 204
+db: 205
+INUM: 12
+TYPE: FILE
+links: 1
+size: 9156
+db: 206
+db: 207
+db: 208
+db: 209
+db: 210
+db: 211
+db: 212
+db: 213
+db: 214
+db: 215
+db: 216
+db: 217
+db: 218
+db: 219
+db: 220
+db: 221
+db: 222
+db: 223
+db: 224
+INUM: 13
+TYPE: FILE
+links: 1
+size: 16284
+db: 225
+db: 226
+db: 227
+db: 228
+db: 229
+db: 230
+db: 231
+db: 232
+db: 233
+db: 234
+db: 235
+db: 236
+db: 237
+db: 238
+db: 239
+db: 240
+db: 241
+db: 242
+db: 243
+db: 244
+db: 245
+db: 246
+db: 247
+db: 248
+db: 249
+db: 250
+db: 251
+db: 252
+db: 253
+db: 254
+db: 255
+db: 256
+db: 257
+INUM: 14
+TYPE: FILE
+links: 1
+size: 9320
+db: 258
+db: 259
+db: 260
+db: 261
+db: 262
+db: 263
+db: 264
+db: 265
+db: 266
+db: 267
+db: 268
+db: 269
+db: 270
+db: 271
+db: 272
+db: 273
+db: 274
+db: 275
+db: 276
+db: 277
+INUM: 15
+TYPE: FILE
+links: 1
+size: 9032
+db: 278
+db: 279
+db: 280
+db: 281
+db: 282
+db: 283
+db: 284
+db: 285
+db: 286
+db: 287
+db: 288
+db: 289
+db: 290
+db: 291
+db: 292
+db: 293
+db: 294
+db: 295
+db: 296
+INUM: 16
+TYPE: FILE
+links: 1
+size: 34880
+db: 297
+db: 298
+db: 299
+db: 300
+db: 301
+db: 302
+db: 303
+db: 304
+db: 305
+db: 306
+db: 307
+db: 308
+db: 309
+db: 310
+db: 311
+db: 312
+db: 313
+db: 314
+db: 315
+db: 316
+db: 317
+db: 318
+db: 319
+db: 320
+db: 321
+db: 322
+db: 323
+db: 324
+db: 325
+db: 326
+db: 327
+db: 328
+db: 329
+db: 330
+db: 331
+db: 332
+db: 333
+db: 334
+db: 335
+db: 336
+db: 337
+db: 338
+db: 339
+db: 340
+db: 341
+db: 342
+db: 343
+db: 344
+db: 345
+db: 346
+db: 347
+db: 348
+db: 349
+db: 350
+db: 351
+db: 352
+db: 353
+db: 354
+db: 355
+db: 356
+db: 357
+db: 358
+db: 359
+db: 360
+db: 361
+db: 362
+db: 363
+db: 364
+db: 365
+db: 366
+INUM: 17
+TYPE: FILE
+links: 1
+size: 9888
+db: 367
+db: 368
+db: 369
+db: 370
+db: 371
+db: 372
+db: 373
+db: 374
+db: 375
+db: 376
+db: 377
+db: 378
+db: 379
+db: 380
+db: 381
+db: 382
+db: 383
+db: 384
+db: 385
+db: 386
+db: 387
+INUM: 18
+TYPE: FILE
+links: 1
+size: 8888
+db: 388
+db: 389
+db: 390
+db: 391
+db: 392
+db: 393
+db: 394
+db: 395
+db: 396
+db: 397
+db: 398
+db: 399
+db: 400
+db: 401
+db: 402
+db: 403
+db: 404
+db: 405
+db: 406
+INUM: 19
+TYPE: DEV
+links: 1
+size: 0
+INUM: 20
+TYPE: NOT USED
+INUM: 21
+TYPE: NOT USED
+INUM: 22
+TYPE: NOT USED
+INUM: 23
+TYPE: NOT USED
+INUM: 24
+TYPE: NOT USED
+INUM: 25
+TYPE: NOT USED
+INUM: 26
+TYPE: NOT USED
+INUM: 27
+TYPE: NOT USED
+INUM: 28
+TYPE: NOT USED
+INUM: 29
+TYPE: NOT USED
+INUM: 30
+TYPE: NOT USED
+INUM: 31
+TYPE: NOT USED
+INUM: 32
+TYPE: NOT USED
+INUM: 33
+TYPE: NOT USED
+INUM: 34
+TYPE: NOT USED
+INUM: 35
+TYPE: NOT USED
+INUM: 36
+TYPE: NOT USED
+INUM: 37
+TYPE: NOT USED
+INUM: 38
+TYPE: NOT USED
+INUM: 39
+TYPE: NOT USED
+INUM: 40
+TYPE: NOT USED
+INUM: 41
+TYPE: NOT USED
+INUM: 42
+TYPE: NOT USED
+INUM: 43
+TYPE: NOT USED
+INUM: 44
+TYPE: NOT USED
+INUM: 45
+TYPE: NOT USED
+INUM: 46
+TYPE: NOT USED
+INUM: 47
+TYPE: NOT USED
+INUM: 48
+TYPE: NOT USED
+INUM: 49
+TYPE: NOT USED
+INUM: 50
+TYPE: NOT USED
+INUM: 51
+TYPE: NOT USED
+INUM: 52
+TYPE: NOT USED
+INUM: 53
+TYPE: NOT USED
+INUM: 54
+TYPE: NOT USED
+INUM: 55
+TYPE: NOT USED
+INUM: 56
+TYPE: NOT USED
+INUM: 57
+TYPE: NOT USED
+INUM: 58
+TYPE: NOT USED
+INUM: 59
+TYPE: NOT USED
+INUM: 60
+TYPE: NOT USED
+INUM: 61
+TYPE: NOT USED
+INUM: 62
+TYPE: NOT USED
+INUM: 63
+TYPE: NOT USED
+INUM: 64
+TYPE: NOT USED
+INUM: 65
+TYPE: NOT USED
+INUM: 66
+TYPE: NOT USED
+INUM: 67
+TYPE: NOT USED
+INUM: 68
+TYPE: NOT USED
+INUM: 69
+TYPE: NOT USED
+INUM: 70
+TYPE: NOT USED
+INUM: 71
+TYPE: NOT USED
+INUM: 72
+TYPE: NOT USED
+INUM: 73
+TYPE: NOT USED
+INUM: 74
+TYPE: NOT USED
+INUM: 75
+TYPE: NOT USED
+INUM: 76
+TYPE: NOT USED
+INUM: 77
+TYPE: NOT USED
+INUM: 78
+TYPE: NOT USED
+INUM: 79
+TYPE: NOT USED
+INUM: 80
+TYPE: NOT USED
+INUM: 81
+TYPE: NOT USED
+INUM: 82
+TYPE: NOT USED
+INUM: 83
+TYPE: NOT USED
+INUM: 84
+TYPE: NOT USED
+INUM: 85
+TYPE: NOT USED
+INUM: 86
+TYPE: NOT USED
+INUM: 87
+TYPE: NOT USED
+INUM: 88
+TYPE: NOT USED
+INUM: 89
+TYPE: NOT USED
+INUM: 90
+TYPE: NOT USED
+INUM: 91
+TYPE: NOT USED
+INUM: 92
+TYPE: NOT USED
+INUM: 93
+TYPE: NOT USED
+INUM: 94
+TYPE: NOT USED
+INUM: 95
+TYPE: NOT USED
+INUM: 96
+TYPE: NOT USED
+INUM: 97
+TYPE: NOT USED
+INUM: 98
+TYPE: NOT USED
+INUM: 99
+TYPE: NOT USED
+INUM: 100
+TYPE: NOT USED
+INUM: 101
+TYPE: NOT USED
+INUM: 102
+TYPE: NOT USED
+INUM: 103
+TYPE: NOT USED
+INUM: 104
+TYPE: NOT USED
+INUM: 105
+TYPE: NOT USED
+INUM: 106
+TYPE: NOT USED
+INUM: 107
+TYPE: NOT USED
+INUM: 108
+TYPE: NOT USED
+INUM: 109
+TYPE: NOT USED
+INUM: 110
+TYPE: NOT USED
+INUM: 111
+TYPE: NOT USED
+INUM: 112
+TYPE: NOT USED
+INUM: 113
+TYPE: NOT USED
+INUM: 114
+TYPE: NOT USED
+INUM: 115
+TYPE: NOT USED
+INUM: 116
+TYPE: NOT USED
+INUM: 117
+TYPE: NOT USED
+INUM: 118
+TYPE: NOT USED
+INUM: 119
+TYPE: NOT USED
+INUM: 120
+TYPE: NOT USED
+INUM: 121
+TYPE: NOT USED
+INUM: 122
+TYPE: NOT USED
+INUM: 123
+TYPE: NOT USED
+INUM: 124
+TYPE: NOT USED
+INUM: 125
+TYPE: NOT USED
+INUM: 126
+TYPE: NOT USED
+INUM: 127
+TYPE: NOT USED
+INUM: 128
+TYPE: NOT USED
+INUM: 129
+TYPE: NOT USED
+INUM: 130
+TYPE: NOT USED
+INUM: 131
+TYPE: NOT USED
+INUM: 132
+TYPE: NOT USED
+INUM: 133
+TYPE: NOT USED
+INUM: 134
+TYPE: NOT USED
+INUM: 135
+TYPE: NOT USED
+INUM: 136
+TYPE: NOT USED
+INUM: 137
+TYPE: NOT USED
+INUM: 138
+TYPE: NOT USED
+INUM: 139
+TYPE: NOT USED
+INUM: 140
+TYPE: NOT USED
+INUM: 141
+TYPE: NOT USED
+INUM: 142
+TYPE: NOT USED
+INUM: 143
+TYPE: NOT USED
+INUM: 144
+TYPE: NOT USED
+INUM: 145
+TYPE: NOT USED
+INUM: 146
+TYPE: NOT USED
+INUM: 147
+TYPE: NOT USED
+INUM: 148
+TYPE: NOT USED
+INUM: 149
+TYPE: NOT USED
+INUM: 150
+TYPE: NOT USED
+INUM: 151
+TYPE: NOT USED
+INUM: 152
+TYPE: NOT USED
+INUM: 153
+TYPE: NOT USED
+INUM: 154
+TYPE: NOT USED
+INUM: 155
+TYPE: NOT USED
+INUM: 156
+TYPE: NOT USED
+INUM: 157
+TYPE: NOT USED
+INUM: 158
+TYPE: NOT USED
+INUM: 159
+TYPE: NOT USED
+INUM: 160
+TYPE: NOT USED
+INUM: 161
+TYPE: NOT USED
+INUM: 162
+TYPE: NOT USED
+INUM: 163
+TYPE: NOT USED
+INUM: 164
+TYPE: NOT USED
+INUM: 165
+TYPE: NOT USED
+INUM: 166
+TYPE: NOT USED
+INUM: 167
+TYPE: NOT USED
+INUM: 168
+TYPE: NOT USED
+INUM: 169
+TYPE: NOT USED
+INUM: 170
+TYPE: NOT USED
+INUM: 171
+TYPE: NOT USED
+INUM: 172
+TYPE: NOT USED
+INUM: 173
+TYPE: NOT USED
+INUM: 174
+TYPE: NOT USED
+INUM: 175
+TYPE: NOT USED
+INUM: 176
+TYPE: NOT USED
+INUM: 177
+TYPE: NOT USED
+INUM: 178
+TYPE: NOT USED
+INUM: 179
+TYPE: NOT USED
+INUM: 180
+TYPE: NOT USED
+INUM: 181
+TYPE: NOT USED
+INUM: 182
+TYPE: NOT USED
+INUM: 183
+TYPE: NOT USED
+INUM: 184
+TYPE: NOT USED
+INUM: 185
+TYPE: NOT USED
+INUM: 186
+TYPE: NOT USED
+INUM: 187
+TYPE: NOT USED
+INUM: 188
+TYPE: NOT USED
+INUM: 189
+TYPE: NOT USED
+INUM: 190
+TYPE: NOT USED
+INUM: 191
+TYPE: NOT USED
+INUM: 192
+TYPE: NOT USED
+INUM: 193
+TYPE: NOT USED
+INUM: 194
+TYPE: NOT USED
+INUM: 195
+TYPE: NOT USED
+INUM: 196
+TYPE: NOT USED
+INUM: 197
+TYPE: NOT USED
+INUM: 198
+TYPE: NOT USED
+INUM: 199
+TYPE: NOT USED
+j: 0
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 0
+bm_bit: 1
+j: 1
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 1
+bm_bit: 1
+j: 2
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 2
+bm_bit: 1
+j: 3
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 3
+bm_bit: 1
+j: 4
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 4
+bm_bit: 1
+j: 5
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 5
+bm_bit: 1
+j: 6
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 6
+bm_bit: 1
+j: 7
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 7
+bm_bit: 1
+j: 8
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 8
+bm_bit: 1
+j: 9
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 9
+bm_bit: 1
+j: 10
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 10
+bm_bit: 1
+j: 11
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 11
+bm_bit: 1
+j: 12
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 12
+bm_bit: 1
+j: 13
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 13
+bm_bit: 1
+j: 14
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 14
+bm_bit: 1
+j: 15
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 15
+bm_bit: 1
+j: 16
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 16
+bm_bit: 1
+j: 17
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 17
+bm_bit: 1
+j: 18
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 18
+bm_bit: 1
+j: 19
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 19
+bm_bit: 1
+j: 20
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 20
+bm_bit: 1
+j: 21
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 21
+bm_bit: 1
+j: 22
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 22
+bm_bit: 1
+j: 23
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 23
+bm_bit: 1
+j: 24
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 24
+bm_bit: 1
+j: 25
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 25
+bm_bit: 1
+j: 26
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 26
+bm_bit: 1
+j: 27
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 27
+bm_bit: 1
+j: 28
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 28
+bm_bit: 1
+j: 29
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 29
+bm_bit: 1
+j: 30
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 30
+bm_bit: 1
+j: 31
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 31
+bm_bit: 1
+j: 32
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 0
+bm_bit: 1
+j: 33
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 1
+bm_bit: 1
+j: 34
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 2
+bm_bit: 1
+j: 35
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 3
+bm_bit: 1
+j: 36
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 4
+bm_bit: 1
+j: 37
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 5
+bm_bit: 1
+j: 38
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 6
+bm_bit: 1
+j: 39
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 7
+bm_bit: 1
+j: 40
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 8
+bm_bit: 1
+j: 41
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 9
+bm_bit: 1
+j: 42
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 10
+bm_bit: 1
+j: 43
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 11
+bm_bit: 1
+j: 44
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 12
+bm_bit: 1
+j: 45
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 13
+bm_bit: 1
+j: 46
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 14
+bm_bit: 1
+j: 47
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 15
+bm_bit: 1
+j: 48
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 16
+bm_bit: 1
+j: 49
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 17
+bm_bit: 1
+j: 50
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 18
+bm_bit: 1
+j: 51
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 19
+bm_bit: 1
+j: 52
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 20
+bm_bit: 1
+j: 53
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 21
+bm_bit: 1
+j: 54
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 22
+bm_bit: 1
+j: 55
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 23
+bm_bit: 1
+j: 56
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 24
+bm_bit: 1
+j: 57
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 25
+bm_bit: 1
+j: 58
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 26
+bm_bit: 1
+j: 59
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 27
+bm_bit: 1
+j: 60
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 28
+bm_bit: 1
+j: 61
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 29
+bm_bit: 1
+j: 62
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 30
+bm_bit: 1
+j: 63
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 31
+bm_bit: 1
+j: 64
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 0
+bm_bit: 1
+j: 65
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 1
+bm_bit: 1
+j: 66
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 2
+bm_bit: 1
+j: 67
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 3
+bm_bit: 1
+j: 68
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 4
+bm_bit: 1
+j: 69
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 5
+bm_bit: 1
+j: 70
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 6
+bm_bit: 1
+j: 71
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 7
+bm_bit: 1
+j: 72
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 8
+bm_bit: 1
+j: 73
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 9
+bm_bit: 1
+j: 74
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 10
+bm_bit: 1
+j: 75
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 11
+bm_bit: 1
+j: 76
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 12
+bm_bit: 1
+j: 77
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 13
+bm_bit: 1
+j: 78
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 14
+bm_bit: 1
+j: 79
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 15
+bm_bit: 1
+j: 80
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 16
+bm_bit: 1
+j: 81
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 17
+bm_bit: 1
+j: 82
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 18
+bm_bit: 1
+j: 83
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 19
+bm_bit: 1
+j: 84
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 20
+bm_bit: 1
+j: 85
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 21
+bm_bit: 1
+j: 86
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 22
+bm_bit: 1
+j: 87
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 23
+bm_bit: 1
+j: 88
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 24
+bm_bit: 1
+j: 89
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 25
+bm_bit: 1
+j: 90
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 26
+bm_bit: 1
+j: 91
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 27
+bm_bit: 1
+j: 92
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 28
+bm_bit: 1
+j: 93
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 29
+bm_bit: 1
+j: 94
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 30
+bm_bit: 1
+j: 95
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 31
+bm_bit: 1
+j: 96
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 0
+bm_bit: 1
+j: 97
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 1
+bm_bit: 1
+j: 98
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 2
+bm_bit: 1
+j: 99
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 3
+bm_bit: 1
+j: 100
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 4
+bm_bit: 1
+j: 101
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 5
+bm_bit: 1
+j: 102
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 6
+bm_bit: 1
+j: 103
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 7
+bm_bit: 1
+j: 104
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 8
+bm_bit: 1
+j: 105
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 9
+bm_bit: 1
+j: 106
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 10
+bm_bit: 1
+j: 107
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 11
+bm_bit: 1
+j: 108
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 12
+bm_bit: 1
+j: 109
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 13
+bm_bit: 1
+j: 110
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 14
+bm_bit: 1
+j: 111
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 15
+bm_bit: 1
+j: 112
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 16
+bm_bit: 1
+j: 113
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 17
+bm_bit: 1
+j: 114
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 18
+bm_bit: 1
+j: 115
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 19
+bm_bit: 1
+j: 116
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 20
+bm_bit: 1
+j: 117
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 21
+bm_bit: 1
+j: 118
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 22
+bm_bit: 1
+j: 119
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 23
+bm_bit: 1
+j: 120
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 24
+bm_bit: 1
+j: 121
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 25
+bm_bit: 1
+j: 122
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 26
+bm_bit: 1
+j: 123
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 27
+bm_bit: 1
+j: 124
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 28
+bm_bit: 1
+j: 125
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 29
+bm_bit: 1
+j: 126
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 30
+bm_bit: 1
+j: 127
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 31
+bm_bit: 1
+j: 128
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 0
+bm_bit: 1
+j: 129
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 1
+bm_bit: 1
+j: 130
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 2
+bm_bit: 1
+j: 131
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 3
+bm_bit: 1
+j: 132
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 4
+bm_bit: 1
+j: 133
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 5
+bm_bit: 1
+j: 134
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 6
+bm_bit: 1
+j: 135
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 7
+bm_bit: 1
+j: 136
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 8
+bm_bit: 1
+j: 137
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 9
+bm_bit: 1
+j: 138
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 10
+bm_bit: 1
+j: 139
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 11
+bm_bit: 1
+j: 140
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 12
+bm_bit: 1
+j: 141
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 13
+bm_bit: 1
+j: 142
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 14
+bm_bit: 1
+j: 143
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 15
+bm_bit: 1
+j: 144
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 16
+bm_bit: 1
+j: 145
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 17
+bm_bit: 1
+j: 146
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 18
+bm_bit: 1
+j: 147
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 19
+bm_bit: 1
+j: 148
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 20
+bm_bit: 1
+j: 149
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 21
+bm_bit: 1
+j: 150
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 22
+bm_bit: 1
+j: 151
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 23
+bm_bit: 1
+j: 152
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 24
+bm_bit: 1
+j: 153
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 25
+bm_bit: 1
+j: 154
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 26
+bm_bit: 1
+j: 155
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 27
+bm_bit: 1
+j: 156
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 28
+bm_bit: 1
+j: 157
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 29
+bm_bit: 1
+j: 158
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 30
+bm_bit: 1
+j: 159
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 31
+bm_bit: 1
+j: 160
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 0
+bm_bit: 1
+j: 161
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 1
+bm_bit: 1
+j: 162
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 2
+bm_bit: 1
+j: 163
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 3
+bm_bit: 1
+j: 164
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 4
+bm_bit: 1
+j: 165
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 5
+bm_bit: 1
+j: 166
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 6
+bm_bit: 1
+j: 167
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 7
+bm_bit: 1
+j: 168
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 8
+bm_bit: 1
+j: 169
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 9
+bm_bit: 1
+j: 170
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 10
+bm_bit: 1
+j: 171
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 11
+bm_bit: 1
+j: 172
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 12
+bm_bit: 1
+j: 173
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 13
+bm_bit: 1
+j: 174
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 14
+bm_bit: 1
+j: 175
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 15
+bm_bit: 1
+j: 176
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 16
+bm_bit: 1
+j: 177
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 17
+bm_bit: 1
+j: 178
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 18
+bm_bit: 1
+j: 179
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 19
+bm_bit: 1
+j: 180
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 20
+bm_bit: 1
+j: 181
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 21
+bm_bit: 1
+j: 182
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 22
+bm_bit: 1
+j: 183
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 23
+bm_bit: 1
+j: 184
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 24
+bm_bit: 1
+j: 185
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 25
+bm_bit: 1
+j: 186
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 26
+bm_bit: 1
+j: 187
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 27
+bm_bit: 1
+j: 188
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 28
+bm_bit: 1
+j: 189
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 29
+bm_bit: 1
+j: 190
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 30
+bm_bit: 1
+j: 191
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 31
+bm_bit: 1
+j: 192
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 0
+bm_bit: 1
+j: 193
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 1
+bm_bit: 1
+j: 194
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 2
+bm_bit: 1
+j: 195
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 3
+bm_bit: 1
+j: 196
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 4
+bm_bit: 1
+j: 197
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 5
+bm_bit: 1
+j: 198
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 6
+bm_bit: 1
+j: 199
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 7
+bm_bit: 1
+j: 200
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 8
+bm_bit: 1
+j: 201
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 9
+bm_bit: 1
+j: 202
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 10
+bm_bit: 1
+j: 203
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 11
+bm_bit: 1
+j: 204
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 12
+bm_bit: 1
+j: 205
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 13
+bm_bit: 1
+j: 206
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 14
+bm_bit: 1
+j: 207
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 15
+bm_bit: 1
+j: 208
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 16
+bm_bit: 1
+j: 209
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 17
+bm_bit: 1
+j: 210
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 18
+bm_bit: 1
+j: 211
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 19
+bm_bit: 1
+j: 212
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 20
+bm_bit: 1
+j: 213
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 21
+bm_bit: 1
+j: 214
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 22
+bm_bit: 1
+j: 215
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 23
+bm_bit: 1
+j: 216
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 24
+bm_bit: 1
+j: 217
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 25
+bm_bit: 1
+j: 218
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 26
+bm_bit: 1
+j: 219
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 27
+bm_bit: 1
+j: 220
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 28
+bm_bit: 1
+j: 221
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 29
+bm_bit: 1
+j: 222
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 30
+bm_bit: 1
+j: 223
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 31
+bm_bit: 1
+j: 224
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 0
+bm_bit: 1
+j: 225
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 1
+bm_bit: 1
+j: 226
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 2
+bm_bit: 1
+j: 227
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 3
+bm_bit: 1
+j: 228
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 4
+bm_bit: 1
+j: 229
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 5
+bm_bit: 1
+j: 230
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 6
+bm_bit: 1
+j: 231
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 7
+bm_bit: 1
+j: 232
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 8
+bm_bit: 1
+j: 233
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 9
+bm_bit: 1
+j: 234
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 10
+bm_bit: 1
+j: 235
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 11
+bm_bit: 1
+j: 236
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 12
+bm_bit: 1
+j: 237
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 13
+bm_bit: 1
+j: 238
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 14
+bm_bit: 1
+j: 239
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 15
+bm_bit: 1
+j: 240
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 16
+bm_bit: 1
+j: 241
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 17
+bm_bit: 1
+j: 242
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 18
+bm_bit: 1
+j: 243
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 19
+bm_bit: 1
+j: 244
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 20
+bm_bit: 1
+j: 245
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 21
+bm_bit: 1
+j: 246
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 22
+bm_bit: 1
+j: 247
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 23
+bm_bit: 1
+j: 248
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 24
+bm_bit: 1
+j: 249
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 25
+bm_bit: 1
+j: 250
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 26
+bm_bit: 1
+j: 251
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 27
+bm_bit: 1
+j: 252
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 28
+bm_bit: 1
+j: 253
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 29
+bm_bit: 1
+j: 254
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 30
+bm_bit: 1
+j: 255
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 31
+bm_bit: 1
+j: 256
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 0
+bm_bit: 1
+j: 257
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 1
+bm_bit: 1
+j: 258
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 2
+bm_bit: 1
+j: 259
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 3
+bm_bit: 1
+j: 260
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 4
+bm_bit: 1
+j: 261
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 5
+bm_bit: 1
+j: 262
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 6
+bm_bit: 1
+j: 263
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 7
+bm_bit: 1
+j: 264
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 8
+bm_bit: 1
+j: 265
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 9
+bm_bit: 1
+j: 266
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 10
+bm_bit: 1
+j: 267
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 11
+bm_bit: 1
+j: 268
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 12
+bm_bit: 1
+j: 269
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 13
+bm_bit: 1
+j: 270
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 14
+bm_bit: 1
+j: 271
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 15
+bm_bit: 1
+j: 272
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 16
+bm_bit: 1
+j: 273
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 17
+bm_bit: 1
+j: 274
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 18
+bm_bit: 1
+j: 275
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 19
+bm_bit: 1
+j: 276
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 20
+bm_bit: 1
+j: 277
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 21
+bm_bit: 1
+j: 278
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 22
+bm_bit: 1
+j: 279
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 23
+bm_bit: 1
+j: 280
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 24
+bm_bit: 1
+j: 281
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 25
+bm_bit: 1
+j: 282
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 26
+bm_bit: 1
+j: 283
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 27
+bm_bit: 1
+j: 284
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 28
+bm_bit: 1
+j: 285
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 29
+bm_bit: 1
+j: 286
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 30
+bm_bit: 1
+j: 287
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 31
+bm_bit: 1
+j: 288
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 0
+bm_bit: 1
+j: 289
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 1
+bm_bit: 1
+j: 290
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 2
+bm_bit: 1
+j: 291
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 3
+bm_bit: 1
+j: 292
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 4
+bm_bit: 1
+j: 293
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 5
+bm_bit: 1
+j: 294
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 6
+bm_bit: 1
+j: 295
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 7
+bm_bit: 1
+j: 296
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 8
+bm_bit: 1
+j: 297
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 9
+bm_bit: 1
+j: 298
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 10
+bm_bit: 1
+j: 299
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 11
+bm_bit: 1
+j: 300
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 12
+bm_bit: 1
+j: 301
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 13
+bm_bit: 1
+j: 302
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 14
+bm_bit: 1
+j: 303
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 15
+bm_bit: 1
+j: 304
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 16
+bm_bit: 1
+j: 305
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 17
+bm_bit: 1
+j: 306
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 18
+bm_bit: 1
+j: 307
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 19
+bm_bit: 1
+j: 308
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 20
+bm_bit: 1
+j: 309
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 21
+bm_bit: 1
+j: 310
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 22
+bm_bit: 1
+j: 311
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 23
+bm_bit: 1
+j: 312
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 24
+bm_bit: 1
+j: 313
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 25
+bm_bit: 1
+j: 314
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 26
+bm_bit: 1
+j: 315
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 27
+bm_bit: 1
+j: 316
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 28
+bm_bit: 1
+j: 317
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 29
+bm_bit: 1
+j: 318
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 30
+bm_bit: 1
+j: 319
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 31
+bm_bit: 1
+j: 320
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 0
+bm_bit: 1
+j: 321
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 1
+bm_bit: 1
+j: 322
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 2
+bm_bit: 1
+j: 323
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 3
+bm_bit: 1
+j: 324
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 4
+bm_bit: 1
+j: 325
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 5
+bm_bit: 1
+j: 326
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 6
+bm_bit: 1
+j: 327
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 7
+bm_bit: 1
+j: 328
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 8
+bm_bit: 1
+j: 329
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 9
+bm_bit: 1
+j: 330
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 10
+bm_bit: 1
+j: 331
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 11
+bm_bit: 1
+j: 332
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 12
+bm_bit: 1
+j: 333
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 13
+bm_bit: 1
+j: 334
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 14
+bm_bit: 1
+j: 335
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 15
+bm_bit: 1
+j: 336
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 16
+bm_bit: 1
+j: 337
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 17
+bm_bit: 1
+j: 338
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 18
+bm_bit: 1
+j: 339
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 19
+bm_bit: 1
+j: 340
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 20
+bm_bit: 1
+j: 341
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 21
+bm_bit: 1
+j: 342
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 22
+bm_bit: 1
+j: 343
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 23
+bm_bit: 1
+j: 344
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 24
+bm_bit: 1
+j: 345
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 25
+bm_bit: 1
+j: 346
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 26
+bm_bit: 1
+j: 347
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 27
+bm_bit: 1
+j: 348
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 28
+bm_bit: 1
+j: 349
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 29
+bm_bit: 1
+j: 350
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 30
+bm_bit: 1
+j: 351
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 31
+bm_bit: 1
+j: 352
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 0
+bm_bit: 1
+j: 353
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 1
+bm_bit: 1
+j: 354
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 2
+bm_bit: 1
+j: 355
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 3
+bm_bit: 1
+j: 356
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 4
+bm_bit: 1
+j: 357
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 5
+bm_bit: 1
+j: 358
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 6
+bm_bit: 1
+j: 359
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 7
+bm_bit: 1
+j: 360
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 8
+bm_bit: 1
+j: 361
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 9
+bm_bit: 1
+j: 362
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 10
+bm_bit: 1
+j: 363
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 11
+bm_bit: 1
+j: 364
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 12
+bm_bit: 1
+j: 365
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 13
+bm_bit: 1
+j: 366
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 14
+bm_bit: 1
+j: 367
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 15
+bm_bit: 1
+j: 368
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 16
+bm_bit: 1
+j: 369
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 17
+bm_bit: 1
+j: 370
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 18
+bm_bit: 1
+j: 371
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 19
+bm_bit: 1
+j: 372
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 20
+bm_bit: 1
+j: 373
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 21
+bm_bit: 1
+j: 374
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 22
+bm_bit: 1
+j: 375
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 23
+bm_bit: 1
+j: 376
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 24
+bm_bit: 1
+j: 377
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 25
+bm_bit: 1
+j: 378
+*********bit_map*********
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002e0001
+bm_block: 28
+bit_num: 26
+bm_bit: 1
